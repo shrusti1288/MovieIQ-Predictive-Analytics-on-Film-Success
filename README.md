@@ -2,10 +2,6 @@
 
 An interactive Streamlit dashboard that analyzes and predicts the success of movies using key performance indicators such as budget, revenue, popularity, runtime, and average votes. Built with Python, this project leverages data visualization, statistical testing, and machine learning (Random Forest) for movie performance insights.
 
-## 🌐 Live Demo
-
-🚀 [Click here to try the live app](https://movieiq-predictive-analytics-on-film-success-hkz386d9xzv5mygjz.streamlit.app/)
-
 ## 📊 Key Features
 
 - 🎯 Predicts whether a movie is likely to be successful (Revenue > Budget)
